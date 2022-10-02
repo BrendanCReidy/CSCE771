@@ -1,0 +1,162 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Columbia,
+
+South Carolina, 29501 BRENDAN REIDY
+
+(843) 610-8275
+
+bcreidy@email.sc.edu
+
+github.com/BrendanCReidy
+
+EDUCATION
+
+University of South Carolina Columbia, SC January 2022 – December 2023
+
+(Expected)
+• M.S. in Computer Science, GPA: 4.00
+
+• Area of Research: Implementation of Natural Language Processing Models at the Edge
+
+• Graduate Coursework: Compiler Construction, Neuromorphic Computing, Computer Processing of Natural Languages,
+
+Computer Architecture
+
+University of South Carolina Aug 2017 – December 2022
+
+• Bachelor of Science in Computer Science
+
+EMPLOYMENT
+
+Research Assistant University of South Carolina Sep 2019 – Present
+
+• Facilitated the development of a morphology classification dataset and implemented various neural network architec-
+
+tures in TensorFlow in order to achieve near expert accuracy (86% vs 89%) on morphology classification
+
+• Developed deep neural network application in CUDA and C++ that achieves 10x improvement over Java version in per-
+
+formance by utilizing parallel computing algorithms for GPU’s
+
+Software Engineering Internship Juniper Networks, Sunnyvale, CA May 2022 - Aug 2022
+
+• Developed robotic micropobing program using computer vision and python which automatically measures PCB test
+
+boards 30x faster than humans
+
+• Created automated data extraction pipeline for thousands of products
+
+• Performed QA, circuit simulation, and data visualization for thousands of products using data extraction pipeline
+
+Data Science Internship Juniper Networks, Sunnyvale, CA May 2021 - Aug 2021
+
+• Created interactive dashboards for anomaly detection and quality forecasting using python and Tableau
+
+Full Stack Internship Swampfox Technologies, Columbia May 2020 - Aug 2020
+
+• Developed data visualization platform/web application for internal company use
+
+• Developed frontend web application using JavaScript, HTML, and CSS
+
+LANGUAGES AND TECHNOLOGIES
+
+• C++, CUDA, Java, Python, Lua, Tableau, TensorFlow, PyTorch, NumPy, HTML, CSS, Vue, JavaScript
+
+• Tableau, PowerPoint, Docker, RStudio, Matlab
+
+TECHNICAL EXPERIENCE
+
+Academic Projects
+
+• Capstone Project (EZBag): Worked with team to develop scan and go webapp using Apache Tomcat (backend) and Vue
+
+(frontend). Developed backend API calls in Java for new user registration using email and SMS validation. Developed
+
+frontend forms for new user registration in Vue.
+
+• Neural Network Visualizer: Developed application for visualizing neural network in Java
+
+Personal Projects
+
+• Image Captioning Discord Bot: Created and trained Transformer based image captioning model on MSCOCO dataset
+
+using TensorFlow. Created image captioning discord bot using model and python
+
+• Java Neural Network: Developed deep neural network library from scratch in Java that supports ternary and binary
+
+neural networks for simulated analog neural network designs
+
+• Procedural Planet Generation: Created computationally efficient infinite procedural planet generation in ROBLOX using
+
+Perlin noise and 3D geometric modelling
+
+• Minigames Video Game: Developed assets, scripts, animations, and models to create a minigames video game in
+
+ROBLOX with over 1 million total plays to date
+
+
+
+PUBLICATIONS
+
+[1] B. Reidy, G. Jalilvand, T. Jiang, and R. Zand, “Tsv extrusion morphology classification using deep convolutional neural net-
+
+works,” in 2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA), pp. 1468–1474, 2020.
+
+[2] M. Elbtity, A. Singh, B. Reidy, X. Guo, and R. Zand, “An in-memory analog computing co-processor for energy-efficient cnn
+
+inference on mobile devices,” in 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), pp. 188–193, 2021.
+
+[3] G. Jalilvand, J. Lindsay, B. Reidy, V. Shukla, D. Duggan, R. Zand, and T. Jiang, “Application of machine learning in recognition
+
+and analysis of tsv extrusion profiles with multiple morphology,” in 2021 IEEE 71st Electronic Components and Technology
+
+Conference (ECTC), pp. 1652–1659, 2021.
+
+[4] M. E. Elbtity, P. S. Chandarana, B. Reidy, J. K. Eshraghian, and R. Zand, “Aptpu: Approximate computing based tensor
+
+processing unit,” IEEE Transactions on Circuits and Systems I: Regular Papers, pp. 1–0, 2022.
+
+
